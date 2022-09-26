@@ -1,2 +1,2 @@
-# ease-trip
+# easy-trip
 Project
